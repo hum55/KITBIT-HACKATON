@@ -179,3 +179,6 @@ Para mantener el sistema seguro:
 Proyecto académico enfocado en la integración de pagos con criptomonedas y servicios de notificación.
 
 ---
+
+- # link de la APP WEB: http://34.201.6.191
+- si lo quieren revisar que me envien un mensaje aqui o al discord para poder prender la instancia ya que la subi AWS.
