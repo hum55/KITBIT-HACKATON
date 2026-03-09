@@ -170,9 +170,11 @@ Para mantener el sistema seguro:
 
 # 👨‍💻 Autores
 
-**Humberto Ramírez Gruintal**
-**Cristopher Maximiliano Euan pool**
-**Alexander Fabrizio Rodriguez Pérez**
+- **Humberto Ramírez Gruintal**
+  
+- **Cristopher Maximiliano Euan pool**
+  
+- **Alexander Fabrizio Rodriguez Pérez**
 
 Proyecto académico enfocado en la integración de pagos con criptomonedas y servicios de notificación.
 
